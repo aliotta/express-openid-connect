@@ -2,11 +2,14 @@
   "name": "express-openid-connect",
   "version": "2.18.0",
   "description": "Express middleware to protect web applications using OpenID Connect.",
-  "repository": "auth0/express-openid-connect",
+  "repository": "aliotta/express-openid-connect",
   "homepage": "https://github.com/auth0/express-openid-connect",
   "license": "MIT",
   "author": "Auth0 <support@auth0.com>",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "lib",
     "middleware",
