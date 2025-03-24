@@ -1,9 +1,9 @@
 {
-  "name": "express-openid-connect",
+  "name": "@aliotta/express-openid-connect",
   "version": "2.18.0",
   "description": "Express middleware to protect web applications using OpenID Connect.",
-  "repository": "aliotta/express-openid-connect",
-  "homepage": "https://github.com/auth0/express-openid-connect",
+  "repository": "https://github.com/aliotta/express-openid-connect.git",
+  "homepage": "https://github.com/aliotta/express-openid-connect",
   "license": "MIT",
   "author": "Auth0 <support@auth0.com>",
   "main": "index.js",
